@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  /* background: #f8fafc; */
+
+  background: radial-gradient(circle at top, #b7c4ee 0%, #c1dbf5 40%, #f3bbbb 100%);
+  color: #0f172a;
+  line-height: 1.6;
+}
+
+section {
+  padding: 120px 20px;
+}
+
+h2 {
+  font-size: 40px;
+  letter-spacing: -1px;
+}
+
+a, button {
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: #4f46e5;
+}
