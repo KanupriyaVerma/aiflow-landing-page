@@ -1,12 +1,12 @@
 # 🚀 AIFlow Landing Page
 
-A modern Angular landing page for an AI productivity platform.
+A modern and responsive landing page built using Angular for an AI productivity platform concept.
 
 ## 🔥 Features
-- Clean modern UI design
-- Responsive layout
-- Hero + Features + CTA sections
-- Built with Angular & CSS
+- Clean and modern UI design
+- Fully responsive layout
+- Structured sections: Hero, Features, Call-to-Action
+- Optimized for performance and usability
 
 ## 🌐 Live Demo
 https://aiflow-landing-page.vercel.app/
@@ -19,8 +19,15 @@ https://aiflow-landing-page.vercel.app/
 ## 📸 Preview
 ![App Screenshot](./screenshot.png)
 
-## 💡 Purpose
-Built to practice frontend UI design and create a portfolio-ready landing page.
+## 💡 What I Learned
+- Building responsive UI using Angular
+- Structuring scalable frontend components
+- Improving layout and user experience design
+
+## 🎯 Highlights
+- Deployed using Vercel
+- Clean component-based architecture
+- Focus on real-world product design
 
 ## 👩‍💻 Author
 Kanupriya Verma
