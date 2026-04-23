@@ -17,7 +17,7 @@ https://aiflow-landing-page.vercel.app/
 - CSS
 
 ## 📸 Preview
-(Add screenshot if possible)
+![App Screenshot](./screenshot.png)
 
 ## 💡 Purpose
 Built to practice frontend UI design and create a portfolio-ready landing page.
