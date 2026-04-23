@@ -9,7 +9,7 @@ A modern Angular landing page for an AI productivity platform.
 - Built with Angular & CSS
 
 ## 🌐 Live Demo
-(Add your Vercel link here)
+https://aiflow-landing-page.vercel.app/
 
 ## 🛠 Tech Stack
 - Angular
